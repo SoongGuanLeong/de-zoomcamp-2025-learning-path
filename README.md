@@ -18,10 +18,3 @@ The goal is to demonstrate my understanding of core concepts, tool proficiency, 
 * **Develop a Portfolio:** Showcase practical data engineering skills for future opportunities.
 
 ---
-
-### **Module 1: Containerization & Infrastructure as Code (GCP & Terraform)**
-* **Description:** Setting up the foundational environment with Docker for local development and managing GCP infrastructure with Terraform.
-* **Key Learnings:** Dockerizing applications (PostgreSQL, pgAdmin), `docker-compose`, fundamental Terraform for cloud resource provisioning.
-* **Deliverables:** Local Docker setup, GCP project creation via Terraform, basic data ingestion.
-* **Status:** **Completed**
-* **[Explore Module 1 »](./01-docker-terraform/README.md)**
