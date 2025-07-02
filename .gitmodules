@@ -1,0 +1,3 @@
+[submodule "04-analytics-engineering"]
+	path = 04-analytics-engineering
+	url = https://github.com/SoongGuanLeong/dbt-homework
