@@ -1,3 +1,6 @@
 [submodule "04-analytics-engineering"]
 	path = 04-analytics-engineering
 	url = https://github.com/SoongGuanLeong/dbt-homework
+[submodule "06-streaming"]
+	path = 06-streaming
+	url = https://github.com/SoongGuanLeong/06-streaming.git
